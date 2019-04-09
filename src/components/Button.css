@@ -1,0 +1,17 @@
+.Button {
+	height: 2.5em;
+	width: 12em;
+	margin-top: 2em;
+	padding: 0 2em;
+	color:#fff;
+	border: none;
+	background: #564154;
+	outline: none;
+	transition: .3s ease-out;
+	font-size: 20px;
+}
+.Button:hover {
+	background: #987EA7;
+	
+
+}

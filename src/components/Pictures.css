@@ -1,0 +1,12 @@
+.Pictures {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.Pictures img {
+    width: 47%;
+    height: 12em;
+    margin: 4px;
+    box-shadow: 2px 2px 10px #564154;
+}

@@ -1,0 +1,9 @@
+.Inputs {
+    height: 2.5em;
+    width: 19em;
+    margin-top: 2em;
+    padding: 0.5em;
+    border: 2px solid #8C8790;
+    outline: none;
+    border-radius: 5px;
+}

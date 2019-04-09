@@ -1,0 +1,33 @@
+.contactFormImg {
+    width: 8em;
+    height: 8em;
+    border-radius: 50%;
+    overflow: hidden;
+    background: #F5F2F5;
+    margin: 1em auto;
+}
+
+.contactFormImg img {
+    width: 100%;
+    height: 100%;
+}
+
+input[type="file"] {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+.file-label {
+    cursor: pointer;
+    width: 100%;
+    color: #564154;
+    font-weight: 600;
+}
+
+.contactFormWarning {
+    color: rgb(204, 17, 79);
+}
